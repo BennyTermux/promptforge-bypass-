@@ -1,0 +1,6 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="20" fill="#10B981"/>
+  <path d="M40 30 L60 55 L80 30 L80 80 L40 80 Z" fill="#0F172A"/>
+  <circle cx="60" cy="55" r="12" fill="#67E8F9"/>
+  <text x="32" y="105" font-family="monospace" font-size="22" fill="#0F172A" font-weight="700">FORGE</text>
+</svg>
